@@ -27,7 +27,7 @@ public class CopyArray{
 public class CopyArray {
     public static void main(String[] args) {
         
-        // Step 1: Declare and initialize the original array
+        // Stegip 1: Declare and initialize the original array
         int[] arr1 = {1, 2, 3, 4, 5};
         
         // Step 2: Create an empty array of same size for manual copy
